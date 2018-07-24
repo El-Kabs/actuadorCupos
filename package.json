@@ -1,0 +1,23 @@
+{
+  "name": "actua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-Kabs/actuadorCupos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/El-Kabs/actuadorCupos/issues"
+  },
+  "homepage": "https://github.com/El-Kabs/actuadorCupos#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "system-sleep": "^1.3.6"
+  }
+}
